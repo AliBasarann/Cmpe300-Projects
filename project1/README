@@ -1,0 +1,3 @@
+You can run the code with "python ./main.py"statement
+You have to install numpy in order to run the file
+you can easily install numpy by writing "pip install numpy" if you have pip installed in your computer
